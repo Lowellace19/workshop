@@ -1,3 +1,3 @@
 #### Description
 
-Dev OPS Seminar
+Lowell Dev OPS Seminar: Lowell
