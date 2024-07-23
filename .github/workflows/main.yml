@@ -18,6 +18,6 @@ jobs:
       - name: Build Docker
         run:  docker build -t devops-seminar . 
       - name: Run Docker
-        run:  docker run -d -p 3000:80 devops seminar
+        run:  docker run -d -p 3000:80 devops-seminar
       - name: List docker containers
         run: docker ps
